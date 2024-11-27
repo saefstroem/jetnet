@@ -1,0 +1,5 @@
+
+/target
+/self_signed_certs
+.env
+config.json
