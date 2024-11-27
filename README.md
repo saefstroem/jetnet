@@ -1,2 +1,2 @@
 # jetnet
- A proprietary edge network for distributed sharded data access.
+ A proprietary shell, for efficiently managing multiple sharded VPS instances.
